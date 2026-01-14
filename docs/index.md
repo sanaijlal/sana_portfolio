@@ -28,9 +28,9 @@ I am a biomedical engineer with 15+ years of experience spanning medical devices
 ---
 
 ## Education
-- *Master of Science* **(Analytics)** *in progress* —  Georgia Institute of Technology. Atlanta, GA, USA.
+- *Master of Science* **(Analytics)** *January 2026-Present* —  Georgia Institute of Technology. Atlanta, GA, USA.
 
-- *Master of Engineering* **(Electronics Engineering)** — NED University of Engineering & Technology. Karachi, Paksitan.
+- *Master of Engineering* **(Electronics Engineering)** — NED University of Engineering & Technology. Karachi, Pakistan.
 
 - *Bachelor of Science* **(Biomedical Engineering)** — Sir Syed University of Engineering & Technology. Karachi, Pakistan.
 
@@ -47,7 +47,7 @@ I am a biomedical engineer with 15+ years of experience spanning medical devices
 ## Skills
 **Programming & Embedded Systems**
 
-Python • C / C++ • Arduino • ESP32MAtlab • R • LabVIEW
+Python • C / C++ • Arduino • MAtlab • R • LabVIEW
 
 **Electronics & Hardware**
 
