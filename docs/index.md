@@ -47,7 +47,7 @@ I am a biomedical engineer with 15+ years of experience spanning medical devices
 ## Skills
 **Programming & Embedded Systems**
 
-Python • C / C++ • Arduino • MAtlab • R • LabVIEW
+Python • C / C++ • Arduino • Matlab • R • LabVIEW
 
 **Electronics & Hardware**
 
