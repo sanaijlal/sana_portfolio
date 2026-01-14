@@ -25,7 +25,7 @@ My skill set bridges biomedical engineering and data-driven intelligence. I work
 - Data acquisition systems,
 - Basics of embedded and instrumentation systems
 - **Tools & Platforms:**
-- Git and Github (version control basics
+- Git and Github (version control basics)
 - Jupyter Notebooks
 - Introductory exposure to Cloud services (AWS, GCP)  
 
