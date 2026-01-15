@@ -78,13 +78,6 @@ Experimental design • Technical writing • Teaching & mentoring • Cross-dis
 
 ---
 
-## 📜 Certifications & Courses
-- Data Science / ML Specialization — Coursera / Udacity / edX
-- Deep Learning — Andrew Ng (or equivalent)
-- Regulatory / Medical Device course (e.g., ISO/FDA overview)
-
----
-
 ## 🔬 Selected Publications
 - Design of Monitoring System for Respiratory Diagnosis — IEEE IEMTRONICS
 - Digital Tele-Stethoscope — World Congress on Medical Physics & Biomedical Engineering
