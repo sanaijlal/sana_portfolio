@@ -1,6 +1,6 @@
 ## 🎓 Robotic Arm
 
-<video width="30%" controls preload="metadata" style="display:block;margin:auto;">
+<video width="50%" controls preload="metadata" style="display:block;margin:auto;">
   <source src="/assets/robotic-arm.mp4" type="video/mp4">
 </video>
 
